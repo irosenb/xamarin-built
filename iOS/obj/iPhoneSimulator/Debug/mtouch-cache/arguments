@@ -1,0 +1,39 @@
+# Version: 7.2.6.28 (606f31a)
+# [first argument, ignore] # /Users/isaac/code/HelloWorldApp/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/isaac/code/HelloWorldApp/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/isaac/code/HelloWorldApp/iOS/bin/iPhoneSimulator/Debug/HelloWorldAppiOS.app \
+	-r \
+	/Users/isaac/code/HelloWorldApp/HelloWorldApp/bin/Debug/HelloWorldApp.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/isaac/code/HelloWorldApp/packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/isaac/code/HelloWorldApp/packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/isaac/code/HelloWorldApp/packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/isaac/code/HelloWorldApp/packages/Xamarin.Forms.Maps.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Maps.iOS.dll \
+	-r \
+	/Users/isaac/code/HelloWorldApp/packages/Xamarin.Forms.Maps.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Maps.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/isaac/code/HelloWorldApp/iOS/bin/iPhoneSimulator/Debug/HelloWorldAppiOS.exe \

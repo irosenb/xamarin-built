@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldApp/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="HelloWorldApp/Views/ApartmentView.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/Apartment.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/ApartmentCell.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/ViewModels/ApartmentViewModel.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldApp/Views/ApartmentDetailView.cs" Line="6" Column="6" />
+      <File FileName="HelloWorldApp/Views/ApartmentAddView.cs" Line="4" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="HelloWorldApp" expanded="True">
+            <Node name="ViewModels" expanded="True">
+              <Node name="LoginViewModel.cs" selected="True" />
+            </Node>
+            <Node name="Views" expanded="True" />
+          </Node>
+          <Node name="HelloWorldApp.iOS" expanded="True">
+            <Node name="Resources" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
